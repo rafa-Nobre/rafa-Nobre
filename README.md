@@ -32,4 +32,5 @@ Desde o inicio da minha graduação venho me aventurando na área de desenvolvim
 ### Fala comigo! 📫
 Caso queira bater um papo ou conversar sobre algo específico: <br />
 -*Email*: denys.nobre@outlook.com <br />
--*LinkedIn*: https://www.linkedin.com/in/denys-rafael-nobre-de-olivera-810764232
+-*LinkedIn:* https://www.linkedin.com/in/denys-rafael-nobre-de-olivera-810764232
+-*Instagram:* https://www.instagram.com/d._rafael/
