@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Quem sou eu? 🤔
 Me chamo Denys Rafa, tenho 22 anos e moro atualmente em Natal/RN. Estou me graduando no Bacharelado de Tecnologia da Informação (ou TI para os mais chegados!) na Universidade do Rio Grande do Norte (2018 - atualmente). <br />
-Pessoalmente, sou ficcionado em livros de ficção e ciência, café e programação!
+Pessoalmente, sou ficcionado em livros de ficção e ciência, jogos, café e programação!
 
 ### Um pouco do meu conhecimento 🔭
 Já programei em linguagens como C, C++ e Java, onde desenvolvi alguns projetos ao longo do curso. Alguns desses projetos estão aqui mesmo na lista de repositórios!!
