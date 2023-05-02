@@ -2,7 +2,7 @@
 
 ### Who am I? 🤔
 My name is Denys Rafael and I currently live in Parnamirim/Rio Grande do Norte, Brazil. I'm majoring in Information Technology at the Federal University of Rio Grande do Norte. <br />
-Personally, I'm fictionalized in books, comics, games, coffee and programming!
+Personally, I'm passioned into books, comics, games, coffee and programming!
 
 ### My knowledge 🔭
 I already programmed in languages like C, C++ and Java, where I developed some projects throughout my university program. Some of these projects are right here in the repositories list! <br />
