@@ -2,14 +2,16 @@
 
 ### Who am I? 🤔
 My name is Denys Rafael and I currently live in Parnamirim/Rio Grande do Norte, Brazil. I'm majoring in Information Technology at the Federal University of Rio Grande do Norte. <br />
+My journey through programming began when i've started my graduation, and futher my journey as a Frontend developer sets up after i develop a simple UI for a project in college. Since then, i'm enjoying so much my career as a programmer and developer. <br />
 Personally, I'm passioned into books, comics, games, coffee and programming!
 
 ### My knowledge 🔭
 I already programmed in languages like C, C++ and Java, where I developed some projects throughout my university program. Some of these projects are right here in the repositories list! <br />
-Javascript, HTML5 and CSS are also languages that i'm recently learning.
+Javascript, HTML5 and CSS are also languages that i've recently worked.
+Out of programming languages field, i've done a few tasks for Backend and learn a couple of things in technologies like AWS and PostgreSQL.
 
 ### What i am learning 🌱
-Recently I'm deepening my knowledge in React and React Native, frameworks that I've already developed some projects and that I'm currently working on. Axios and React Navigation are other tools that i'm current working too.
+Recently I'm deepening my knowledge and working with Flutter and Dart. Alongside, i'm learning design patterns such as SOLID and Clean to develop more sturdy and organized projets. 
 
 ### Bonus feature ✨
 The digital games area is one of my favorites when I'm not doing other activities. I've participated in several projects involving game development, story telling and artificial intelligence for games. <br /> 
