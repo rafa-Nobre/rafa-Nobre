@@ -19,7 +19,6 @@ Particularly, I really like to study and stay on top of new technologies and fra
 
 ### Talk to me! 📫
 If you want to chat with me or disguss some ideas, i'm just a message away! <br />
--*Other email*: denys.r4fa3l@gmail.com <br />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d._rafael) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/denys-olivera-810764232) 
